@@ -22,6 +22,21 @@
       "id": 3,
       "imageId": 1,
       "content": "Woof!"
+    },
+    {
+      "isTrusted": true,
+      "id": 4
+    },
+    {
+      "isTrusted": true,
+      "id": 5
+    },
+    {
+      "isTrusted": true,
+      "id": 6
+    },
+    {
+      "id": 7
     }
   ]
 }
